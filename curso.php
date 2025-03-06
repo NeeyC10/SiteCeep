@@ -11,43 +11,10 @@
 
 <body>
 
-    <div class="container">
-        <div class="row corfundo col-md-12">
-            <div class="col-md-2">
-                <div><img src="https://escolatecnicalaranjeiras.com.br/wp-content/uploads/2020/11/cropped-logo-em-pdf-ceep.png" class="img-fluid"></div>
-            </div>
+<?php 
+     include("topo.php");
+    ?>
 
-            <div class="col-md-8">
-                <div class="text-center">
-                    <h2>CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL </h2>
-                </div>
-                <hr>
-                <div class="text-center">Profª. Naiana Babaresco Souza - Escola Técnica de Laranjeiras do Sul - PR</div>
-            </div>
-
-            <div class="col-md-2">
-                <div><img src="https://images.seeklogo.com/logo-png/23/2/brasao-do-parana-logo-png_seeklogo-235186.png" class="img-fluid"></div>
-            </div>
-        </div><br>
-
-
-        <div class="row">
-            <div class="col-md-3 p-0">
-                <div><button class="btn btn-secondary" type="button">inicio</button></div>
-            </div>
-
-            <div class="col-md-3">
-                <div><button class="btn btn-secondary" type="button">cursos</button></div>
-            </div>
-
-            <div class="col-md-3">
-                <div><button class="btn btn-secondary" type="button">noticias</button></div>
-            </div>
-
-            <div class="col-md-3">
-                <div><button class="btn btn-secondary" type="button">contato</button></div>
-            </div>
-        </div><br><hr>
 
 
 
@@ -68,7 +35,7 @@
 
                 <div class="row mt-2">
                     <div class="col-md-8">
-                    <div class="text-center"><h2>Edificaçõe</h2></div>
+                    <div class="text-center"><h2>Edificações</h2></div>
                     <div class="text-center"><p>O Técnico em Edificações tem entre seus campos de atuação a realização de desenhos técnicos para a construção civil, fiscalização e execução de obras, assistência técnica no estudo de viabilidade de projetos, entre outros, além da responsabilidade técnica por projetos de até 80m2.</p></div>
                     </div>
                     <div class="col-md-4">

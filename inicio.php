@@ -11,49 +11,19 @@
 
 <body>
 
-    <div class="container">
-        <div class="row corfundo col-md-12">
-            <div class="col-md-2">
-                <div><img src="https://escolatecnicalaranjeiras.com.br/wp-content/uploads/2020/11/cropped-logo-em-pdf-ceep.png" class="img-fluid"></div>
-            </div>
+<?php 
+     include("topo.php");
+    ?>
 
-            <div class="col-md-8">
-                <div class="text-center"><h2>CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL </h2></div><hr>
-                <div class="text-center">Profª. Naiana Babaresco Souza - Escola Técnica de Laranjeiras do Sul - PR</div>
-            </div>
-
-            <div class="col-md-2">
-                <div><img src="https://images.seeklogo.com/logo-png/23/2/brasao-do-parana-logo-png_seeklogo-235186.png" class="img-fluid"></div>
-            </div>
-        </div><br>
-
-
-        <div class="row">
-            <div class="col-md-3 p-0">
-                <div><button class="btn btn-secondary" type="button">inicio</button></div>
-            </div>
-
-            <div class="col-md-3">
-                <div><button class="btn btn-secondary" type="button">cursos</button></div>
-            </div>
-
-            <div class="col-md-3">
-                <div><button class="btn btn-secondary" type="button">noticias</button></div>
-            </div>
-            
-            <div class="col-md-3">
-                <div><button class="btn btn-secondary" type="button">contato</button></div>
-            </div>
-        </div><br>
 
     <!-- Carrossel -->            
         <div class="row">
-            <div class="img-fluid" col-md-8>
-                <img src="https://escolatecnicalaranjeiras.com.br/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-18-at-09.27.26.jpeg" class="imgInicial">
+            <div class=" text-center" col-md-8>
+                <img class='img-fluid' src="https://escolatecnicalaranjeiras.com.br/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-18-at-09.27.26.jpeg">
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mt-2">
             <div class="text-center"><h1>Sobre o Colégio</h1></div>
             <div><p>Em 2008, dez municípios do Paraná foram selecionados para receber unidades do Centro Estadual de Educação Profissional (CEEP). Laranjeiras do Sul foi um dos municípios contemplados, devido à sua localização central, atendendo à demanda regional. O CEEP na região Cantuquiriguaçu foi planejado para atender áreas específicas como o maior assentamento da América Latina e a maior Terra Indígena do Paraná.
 
