@@ -5,7 +5,7 @@
             </div>
 
             <div class="col-8">
-                <div class="text-center">
+                <div class="text-center mt-5">
                     <h1 class="fs-2">CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL </h1>
                 </div>
                 <hr>

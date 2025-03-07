@@ -33,18 +33,9 @@ Em agosto de 2016, os primeiros cursos começaram a funcionar no período noturn
 Inicialmente chamado de "Centro Estadual de Educação Profissional de Laranjeiras do Sul", o nome foi mudado para homenagear a Professora Naiana Babaresco de Souza, uma servidora pública dedicada à educação e que enfrentou o câncer com determinação. A escolha do nome reflete um referencial jovem e serve como homenagem à servidora.</p></div>
 
         </div>
-
-
-        <div class="row">
-            <div class=" col-md-12 corfundo">
-                <footer>
-                    footer
-                </footer>
-            </div>
-        </div>
-
     </div>
 
+        <?php include("rodape.php") ?>
 
 
     
