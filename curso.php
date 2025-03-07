@@ -18,8 +18,8 @@
 
 
 
-        <div class="row">
-            <div><h1 class="text-center">Cursos</h1></div><br>
+    <div class="row">
+        <div><h1 class="text-center">Cursos</h1></div><br>
             <div class="col-md-12 mt-3">
 
                 <div class="row">
@@ -71,9 +71,9 @@
 
     </div>
 
-
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 
 </html>
+
+

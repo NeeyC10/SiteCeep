@@ -11,9 +11,7 @@
 
 <body>
 
-<?php 
-     include("topo.php");
-    ?>
+<?php include("topo.php"); ?>
 
 
     <!-- Carrossel -->            
@@ -23,9 +21,9 @@
             </div>
         </div>
 
-        <div class="row mt-2">
+        <div class="row mt-3">
             <div class="text-center"><h1>Sobre o Colégio</h1></div>
-            <div><p>Em 2008, dez municípios do Paraná foram selecionados para receber unidades do Centro Estadual de Educação Profissional (CEEP). Laranjeiras do Sul foi um dos municípios contemplados, devido à sua localização central, atendendo à demanda regional. O CEEP na região Cantuquiriguaçu foi planejado para atender áreas específicas como o maior assentamento da América Latina e a maior Terra Indígena do Paraná.
+            <div class="text-center"><p>Em 2008, dez municípios do Paraná foram selecionados para receber unidades do Centro Estadual de Educação Profissional (CEEP). Laranjeiras do Sul foi um dos municípios contemplados, devido à sua localização central, atendendo à demanda regional. O CEEP na região Cantuquiriguaçu foi planejado para atender áreas específicas como o maior assentamento da América Latina e a maior Terra Indígena do Paraná.
 
 Estudos de demanda foram realizados para justificar a necessidade da unidade de educação profissional, envolvendo alunos do Ensino Fundamental e Médio. Diversas reuniões foram realizadas com entidades municipais e secretarias de educação para discutir a oferta e demanda de cursos. Os cursos escolhidos foram: Técnico em Contabilidade, Técnico em Edificações, Técnico em Agronegócio e Técnico em Enfermagem.
 
