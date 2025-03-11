@@ -12,32 +12,31 @@
 <body>
 
 <?php include("topo.php"); ?>
- 
-<div class="container">
-   <div class="row"><h1 class="text-center">Contate-nos</h1></div>
 
-<div cl  ass="row mt-3">
+        <div class="container">
+   <div class="row">
+      <h1 class="text-center">Contate-nos</h1>
+   </div>
 
-<div class="row col-md-7 col-xs-12">
-     <form action="">
-        <div class="row">
-           <div class="col-md-6 col-xs-12 text-center"><input type="text" placeholder="Nome"></div>
-           <div class="col-md-6 col-xs-12 text-center"><input type="text" placeholder="Email"></div>
-           <div class="row mt-2 text-center"><input type="text" placeholder="Mensagem" style="height: 200px"></div>
-           <div class="row mt-2"><button class="btn btn-primary">Enviar</button></div>
-        </div>
-     </form>
+   <div class="row mt-3">
+      
+      <div class="col-md-7 col-xs-12">
+         <form action="">
+            <div class="row">
+               <div class="col-md-6 col-xs-12 text-center mt-2"> <input type="text" class="form-control w-100" placeholder="Nome"> </div>
+               <div class="col-md-6 col-xs-12 text-center mt-2"> <input type="text" class="form-control w-100" placeholder="Email"> </div>
+               <div class="mt-2"> <input type="text" class="form-control w-100" placeholder="Mensagem" style="height: 200px"> </div>
+               <div class="mt-2"> <button class="btn btn-primary w-100">Enviar</button> </div>
+            </div>
+         </form>
+      </div> 
+
+      
+      <div class="col-md-5 col-xs-12 text-center">
+         <iframe class="w-100 mt-3" src="https://maps.app.goo.gl/X6sUqLrEGiL92twv6"></iframe>
+      </div>
+   </div>
 </div>
-     <div class="col-md-5 col-xs-12 text-center">
-        <iframe class="text-center" src="https://maps.app.goo.gl/X6sUqLrEGiL92twv6"></iframe>
-     </div>
-
-</div>
-</div>
-
-
-
-
 
 
 
