@@ -35,19 +35,19 @@
     <div class="row">
         <div class="col-6">
             <div>
-                <h1 class="text-center">Desenvolvimento</h1>
+                <h1 class="text-center">Edificações</h1>
             </div>
             <div>
-                <a href="desenvolvimento.php"><img src="https://portal.unit.br/wp-content/uploads/2023/11/7088807-1024x731.jpg" class="img-fluid"></a>
+                <a href="desenvolvimento.php"><img src="https://polocentralcursos.com.br/wp-content/uploads/2022/03/edificacoes-1.jpg" class="img-fluid"></a>
             </div>
         </div>
         
         <div class="col-6">
             <div>
-                <h1 class="text-center">Enfermagem</h1>
+                <h1 class="text-center">Estetica</h1>
             </div>
             <div>
-                <a href=""><img src="https://blog.ulbra.br/wp-content/uploads/2022/03/Curiosidades-sobre-o-Curso-de-Enfermagem-.jpeg" class="img-fluid"></a>
+                <a href=""><img src="https://anhanguera.s3.amazonaws.com/wp-content/uploads/2023/07/mulher-fazendo-tratamento-estetico-21-07-2023-64bb0f2bed6f2.webp" class="img-fluid"></a>
             </div>
         </div>
     </div>
