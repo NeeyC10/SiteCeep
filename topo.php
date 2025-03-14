@@ -1,7 +1,7 @@
 <div class="container">
-    
-<!-- Header para pc -->
-<div class="d-none d-sm-block">
+
+    <!-- Header para pc -->
+    <div class="d-none d-sm-block">
         <div class="row corfundo">
             <div class="col-2">
                 <div><img src="https://escolatecnicalaranjeiras.com.br/wp-content/uploads/2020/11/cropped-logo-em-pdf-ceep.png" class="img-fluid"></div>
@@ -12,7 +12,9 @@
                     <h1 class="fs-2">CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL </h1>
                 </div>
                 <hr>
-                <div class="text-center"><h2 class="fs-6">Profª. Naiana Babaresco Souza - Escola Técnica de Laranjeiras do Sul - PR</h2></div>
+                <div class="text-center">
+                    <h2 class="fs-6">Profª. Naiana Babaresco Souza - Escola Técnica de Laranjeiras do Sul - PR</h2>
+                </div>
             </div>
 
             <div class="col-2">
@@ -21,8 +23,8 @@
         </div>
     </div>
 
-<!-- Header para celular -->
-<div class="d-block d-sm-none">
+    <!-- Header para celular -->
+    <div class="d-block d-sm-none">
         <div class="row corfundo">
             <div class="col-2"></div>
             <div class="col-3">
@@ -40,35 +42,54 @@
                 </div>
                 <hr>
 
-                <div class="text-center"><h6 class="fs-6">Profª. Naiana Babaresco Souza - Escola Técnica de Laranjeiras do Sul - PR</h6></div>
+                <div class="text-center">
+                    <h6 class="fs-6">Profª. Naiana Babaresco Souza - Escola Técnica de Laranjeiras do Sul - PR</h6>
+                </div>
             </div>
 
-            
+
         </div>
     </div>
+
+
+
+
+
+    <div class="row mt-2">
+
+        <div class="col-3 p-1">
+            <div><a href="inicio.php"><button class="btn btn-secondary" type="button">Inicio</button></a></div>
+        </div>
+
+        <div class="col-3 p-1">
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">Cursos</button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <li><a class="dropdown-item" href="cursos.php">Subsequentes</a></li>
+                    <li><a class="dropdown-item" href="#">Integrados</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-3 p-1">
+            <div><a href="noticias.php"><button class="btn btn-secondary" type="button">Notícias</button></a></div>
+        </div>
+
+        <div class="col-3 p-1">
+            <div><a href="contato.php"><button class="btn btn-secondary" type="button">Contato</button></a></div>
+        </div>
+
+        <div class="col-3 p-1">
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">Inicio</button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <li><a class="dropdown-item" href="#">...</a></li>
+                    <li><a class="dropdown-item" href="#">...</a></li>
+                </ul>
+            </div>
+        </div>
+
         
 
-        
-        
-
-        <div class="row mt-2">
-            
-            <div class="col-3 p-1">
-                <div><a href="inicio.php"><button class="btn btn-secondary" type="button">Inicio</button></a></div>  
-            </div>
-
-            <div class="col-3 p-1">
-                <div><a href="cursos.php"><button class="btn btn-secondary" type="button">Cursos</button></a></div>
-            </div>
-
-            <div class="col-3 p-1">
-                <div><a href="noticias.php" ><button class="btn btn-secondary" type="button" >Notícias</button></a></div>
-            </div>
-            
-            <div class="col-3 p-1">
-               <div><a href="contato.php"><button class="btn btn-secondary" type="button">Contato</button></a></div>
-            </div>
-            
-        </div><hr>
-
- 
+    </div>
+    <hr>
