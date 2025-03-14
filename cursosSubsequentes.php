@@ -20,7 +20,7 @@
                     <h1 class="text-center">DEV</h1>
                 </div>
                 <div>
-                    <a href="cursoResumo.php"><img src="https://portal.unit.br/wp-content/uploads/2023/11/7088807-1024x731.jpg" class="img-fluid"></a>
+                    <a href="desenvolvimentoSub.php"><img src="https://portal.unit.br/wp-content/uploads/2023/11/7088807-1024x731.jpg" class="img-fluid"></a>
                 </div>
             </div>
 
@@ -29,7 +29,7 @@
                     <h1 class="text-center">Enfermagem</h1>
                 </div>
                 <div>
-                    <a href="cursoResumo.php"><img src="https://blog.ulbra.br/wp-content/uploads/2022/03/Curiosidades-sobre-o-Curso-de-Enfermagem-.jpeg" class="img-fluid"></a>
+                    <a href="enfermagemSub.php"><img src="https://blog.ulbra.br/wp-content/uploads/2022/03/Curiosidades-sobre-o-Curso-de-Enfermagem-.jpeg" class="img-fluid"></a>
                 </div>
             </div>
         </div><br>
@@ -40,7 +40,7 @@
                     <h1 class="text-center">Edificações</h1>
                 </div>
                 <div>
-                    <a href="cursoResumo.php"><img src="https://polocentralcursos.com.br/wp-content/uploads/2022/03/edificacoes-1.jpg" class="img-fluid"></a>
+                    <a href="edificacoesSub.php"><img src="https://polocentralcursos.com.br/wp-content/uploads/2022/03/edificacoes-1.jpg" class="img-fluid"></a>
                 </div>
             </div>
 
@@ -49,7 +49,7 @@
                     <h1 class="text-center">Estetica</h1>
                 </div>
                 <div>
-                    <a href="cursoResumo.php"><img src="https://anhanguera.s3.amazonaws.com/wp-content/uploads/2023/07/mulher-fazendo-tratamento-estetico-21-07-2023-64bb0f2bed6f2.webp" class="img-fluid"></a>
+                    <a href="esteticaSub.php"><img src="https://anhanguera.s3.amazonaws.com/wp-content/uploads/2023/07/mulher-fazendo-tratamento-estetico-21-07-2023-64bb0f2bed6f2.webp" class="img-fluid"></a>
                 </div>
             </div>
         </div>
@@ -60,7 +60,7 @@
                     <h1 class="text-center">Eletrotécnica </h1>
                 </div>
                 <div>
-                    <a href="cursoResumo.php"><img src="https://netcom-ma.com.br/wp-content/uploads/2018/03/eletrotecnica.jpg" class="img-fluid"></a>
+                    <a href="eletrotecnicaSub.php"><img src="https://netcom-ma.com.br/wp-content/uploads/2018/03/eletrotecnica.jpg" class="img-fluid"></a>
                 </div>
             </div>
 
@@ -69,7 +69,7 @@
                     <h1 class="text-center">Farmacia</h1>
                 </div>
                 <div>
-                    <a href="cursoResumo.php"><img src="https://www.undb.edu.br/hubfs/shutterstock_1261056829%20%281%29.jpg" class="img-fluid"></a>
+                    <a href="farmaciaSub.php"><img src="https://www.undb.edu.br/hubfs/shutterstock_1261056829%20%281%29.jpg" class="img-fluid"></a>
                 </div>
             </div>
         </div>
