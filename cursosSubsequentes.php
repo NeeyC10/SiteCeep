@@ -54,6 +54,26 @@
             </div>
         </div>
 
+        <div class="row">
+            <div class="col-6">
+                <div>
+                    <h1 class="text-center">Eletrotécnica </h1>
+                </div>
+                <div>
+                    <a href="cursoResumo.php"><img src="https://netcom-ma.com.br/wp-content/uploads/2018/03/eletrotecnica.jpg" class="img-fluid"></a>
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div>
+                    <h1 class="text-center">Farmacia</h1>
+                </div>
+                <div>
+                    <a href="cursoResumo.php"><img src="https://www.undb.edu.br/hubfs/shutterstock_1261056829%20%281%29.jpg" class="img-fluid"></a>
+                </div>
+            </div>
+        </div>
+
 
 
 
