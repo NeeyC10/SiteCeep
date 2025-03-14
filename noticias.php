@@ -16,6 +16,7 @@
     ?>
 
 <!-- Noticias para pc -->
+ <div class="container">
      <div class="d-none d-sm-block">
         <div class="row">
             <div><h1 class="text-center">Noticias</h1></div><br>

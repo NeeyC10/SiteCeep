@@ -16,6 +16,11 @@ h2{
    color: aliceblue;
 }
 
+h6{
+   background: rgb(0, 26, 97);
+   color: aliceblue;
+}
+
 body{
    background-color: rgb(233, 233, 233);
 }
