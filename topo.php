@@ -52,7 +52,7 @@
 
 
 
-
+<!--Botoes-->
 
     <div class="row mt-2 m-3">
 
@@ -78,7 +78,7 @@
             <div><a href="contato.php"><button class="btn btn-secondary" type="button">Contato</button></a></div>
         </div>
 
-         <div class="col-3 p-1">
+        <!-- <div class="col-3 p-1">
             <div class="dropdown">
                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">Inicio</button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -87,7 +87,7 @@
                 </ul>
             </div>
         </div>
-
+-->
         
 
     </div>
