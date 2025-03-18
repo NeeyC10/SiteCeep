@@ -76,6 +76,7 @@
 </body>
 
 <footer>
+    <br>
     <?php include("footer.php"); ?>
 </footer>
 
