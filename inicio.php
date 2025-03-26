@@ -18,13 +18,13 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="https://escolatecnicalaranjeiras.com.br/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-18-at-09.27.26.jpeg" class="d-block w-100" alt="...">
+          <img src="img/carousel1.jpg" class="d-block w-100 " alt="...">
         </div>
         <div class="carousel-item">
-          <img src="..." class="d-block w-100" alt="...">
+          <img src="img/carousel2.jpg" class="d-block w-100 " alt="...">
         </div>
         <div class="carousel-item">
-          <img src="..." class="d-block w-100" alt="...">
+          <img src="img/carousel3.jpg" class="d-block w-100 " alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

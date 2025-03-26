@@ -66,52 +66,32 @@
      </div>
 
 <!-- Noticias para celular -->
-     <div class="d-block d-sm-none">
+<div class="d-block d-sm-none">
         <div class="row">
             <div><h1 class="text-center">Noticias</h1></div><br>
               <div class="col-md-12 mt-3">
 
                 <div class="row">
-                    <div class="text-center"><h2>Noticia 1</h2></div>
+                    <div class="text-center"><h2>formados</h2></div>
                     <div class="col-md-4">
-                        <img src="https://embratur.com.br/wp-content/uploads/2022/07/Embratur-Brasil-ultrapassa-marca-de-1-milhao-de-turistas-estrangeiros-recebidos-pela-primeira-vez-desde-2020-1.png" class="img-fluid " height="50px">
+                        <img src="https://antigo.pi.gov.br/wp-content/uploads/2023/02/colacao.jpg" class="img-fluid " height="50px">
                     </div>
-                    <div class="col-md-8 fundoResumoCursos"> 
-                    <div class="text-center"><p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p></div>
+                    <div class="col-md-8 fundoResumoCursos">
+                    <div class="text-center"><p>Foto dos alunos formados no 3...</p></div>
                     </div>
-                </div><hr>
+                </div>
 
                 <div class="row">
-                    <div class="text-center"><h2>Noticia 2</h2></div>
-                    <div class="col-md-4">
-                        <img src="https://embratur.com.br/wp-content/uploads/2022/07/Embratur-Brasil-ultrapassa-marca-de-1-milhao-de-turistas-estrangeiros-recebidos-pela-primeira-vez-desde-2020-1.png" class="img-fluid " height="50px">
+                        <div class="text-center"><h2>Incrições Abertas</h2></div>
+                        <div class="col-md-4">
+                        <img src="https://campoabertofm.com.br/upload/noticias/1726880676phpey1jfv.jpeg" class="img-fluid" height="50px">
                     </div>
-                    <div class="col-md-8 fundoResumoCursos"> 
-                    <div class="text-center"><p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p></div>
-                    </div>
-                </div><hr>
+                    <div class="col-md-8">
 
-                <div class="row">
-                    <div class="text-center"><h2>Noticia 3</h2></div>
-                    <div class="col-md-4">
-                        <img src="https://embratur.com.br/wp-content/uploads/2022/07/Embratur-Brasil-ultrapassa-marca-de-1-milhao-de-turistas-estrangeiros-recebidos-pela-primeira-vez-desde-2020-1.png" class="img-fluid " height="50px">
+                    <div class="text-center"><p>Incrições Abertas no Colégio Ceep...</p></div>
                     </div>
-                    <div class="col-md-8 fundoResumoCursos"> 
-                    <div class="text-center"><p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p></div>
-                    </div>
-                </div><hr>
+                </div><hr>  
 
-                <div class="row">
-                    <div class="text-center"><h2>Noticia 4</h2></div>
-                    <div class="col-md-4">
-                        <img src="https://embratur.com.br/wp-content/uploads/2022/07/Embratur-Brasil-ultrapassa-marca-de-1-milhao-de-turistas-estrangeiros-recebidos-pela-primeira-vez-desde-2020-1.png" class="img-fluid " height="50px">
-                    </div>
-                    <div class="col-md-8 fundoResumoCursos"> 
-                    <div class="text-center"><p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p></div>
-                    </div>
-                </div><hr>
-
-                 
               </div>
          </div>
      </div>

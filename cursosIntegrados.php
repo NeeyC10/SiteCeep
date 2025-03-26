@@ -60,7 +60,7 @@
                     <h1 class="text-center">Administração </h1>
                 </div>
                 <div>
-                    <a href="adiministracaoInt.php"><img src="https://wordpress-cms-gc-prod-assets.quero.space/uploads/2016/10/Administracao-1.jpg" class="img-fluid"></a>
+                    <a href="administracaoInt.php"><img src="https://wordpress-cms-gc-prod-assets.quero.space/uploads/2016/10/Administracao-1.jpg" class="img-fluid"></a>
                 </div>
             </div>
 
