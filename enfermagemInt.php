@@ -22,7 +22,29 @@
         </div>
         <div class="row mt-2">
             <div class="col-md-6">
-                <img src="https://blog.ulbra.br/wp-content/uploads/2022/03/Curiosidades-sobre-o-Curso-de-Enfermagem-.jpeg" class="img-fluid">
+                
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/imgEnfermagem.jpeg" class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="..." class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="...." class="d-block w-100 " alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
             </div>
             <div class="col-md-6 mt-2">
                 <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor necessitatibus aliquid ut at vero eaque reiciendis consequatur perferendis magnam doloremque. Non fugit assumenda mollitia quas voluptas incidunt quidem laborum deleniti.</p>

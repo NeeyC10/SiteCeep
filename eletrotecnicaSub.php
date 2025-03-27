@@ -21,7 +21,29 @@
         </div>
         <div class="row mt-2">
             <div class="col-md-6">
-                <img src="https://netcom-ma.com.br/wp-content/uploads/2018/03/eletrotecnica.jpg" class="img-fluid">
+
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/imgEletrotecnica.jpg" class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/imgEletrotecnicaCarousel1.jpg" class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/imgEletrotecnicaCarousel2.jpg" class="d-block w-100 " alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
             </div>
             <div class="col-md-6 mt-2">
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat, unde ad cum, velit repudiandae ea eius dolorum incidunt, aliquam accusamus dicta neque! Beatae similique quae culpa, iste sint architecto voluptas.</p>

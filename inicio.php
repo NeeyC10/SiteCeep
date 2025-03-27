@@ -18,13 +18,31 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="img/carousel1.jpg" class="d-block w-100 " alt="...">
+          <img src="img/imgCeepCarousel1.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/carousel2.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel2.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/carousel3.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel3.jpg" class="d-block w-100 " alt="...">
+        </div>
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel4.jpg" class="d-block w-100 " alt="...">
+        </div>
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel5.jpg" class="d-block w-100 " alt="...">
+        </div>
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel6.jpg" class="d-block w-100 " alt="...">
+        </div>
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel7.jpg" class="d-block w-100 " alt="...">
+        </div>
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel8.jpg" class="d-block w-100 " alt="...">
+        </div>
+        <div class="carousel-item active">
+          <img src="img/imgCeepCarousel9.jpg" class="d-block w-100 " alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

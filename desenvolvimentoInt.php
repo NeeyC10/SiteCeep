@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="geral.css">
-    
+
     <title>Document</title>
 </head>
 
@@ -22,7 +22,29 @@
         </div>
         <div class="row mt-2">
             <div class="col-md-6">
-                <img src="https://etecpirassununga.com.br/wp-content/uploads/2018/05/ds.jpg" class="img-fluid">
+
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/imgDev.jpg" class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="..." class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="...." class="d-block w-100 " alt="...">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
             </div>
             <div class="col-md-6 mt-2">
                 <p>é um processo que envolve a criação de softwares para atender às necessidades das empresas. Esse processo começa com a análise das necessidades dos usuários e da empresa, e a partir daí, os desenvolvedores trabalham na criação do design do sistema, codificação, testes e documentação. A meta final é implantar o software e garantir sua operação contínua.
