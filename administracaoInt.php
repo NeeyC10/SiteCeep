@@ -28,10 +28,13 @@
                             <img src="img/imgAdm.jpg" class="d-block w-100 " alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="..." class="d-block w-100 " alt="...">
+                            <img src="img/imgAdmCarousel1.JPG" class="d-block w-100 " alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="...." class="d-block w-100 " alt="...">
+                            <img src="img/imgAdmCarousel2.JPG" class="d-block w-100 " alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/imgAdmCarousel3.JPG" class="d-block w-100 " alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
