@@ -10,46 +10,47 @@
 
 </head>
 
-<body>
-<?php include("topo.php"); ?>  
+<header>
+  <?php include("topo.php"); ?>
+</header>
 
+<body>
   <div class="container">
-    <!-- Carrossel -->
-    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="img/imgCeepCarousel1.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel2.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel3.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel4.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel5.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel6.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel7.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel8.jpg" class="d-block w-100 " alt="...">
         </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
           <img src="img/imgCeepCarousel9.jpg" class="d-block w-100 " alt="...">
         </div>
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
       </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
       </button>
@@ -75,9 +76,10 @@
 
   </div>
 
-  
+
 </body>
 <footer>
-   <?php include("footer.php"); ?>
+  <?php include("footer.php"); ?>
 </footer>
+
 </html>

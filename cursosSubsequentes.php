@@ -14,10 +14,13 @@
     <?php include("topo.php"); ?>
 
     <div class="container">
+    <div class="row">
+            <div class="text-center mb-3"><h1>Cursos Subsequentes</h1></div>
+        </div>
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">DEV</h1>
+                    <h2 class="text-center">DEV</h2>
                 </div>
                 <div>
                     <a href="desenvolvimentoSub.php"><img src="img/imgDev.jpg" class="img-fluid"></a>
@@ -26,7 +29,7 @@
 
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">Enfermagem</h1>
+                    <h2 class="text-center">Enfermagem</h2>
                 </div>
                 <div>
                     <a href="enfermagemSub.php"><img src="img/imgEnfermagem.jpeg" class="img-fluid"></a>
@@ -37,7 +40,7 @@
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">Edificações</h1>
+                    <h2 class="text-center">Edificações</h2>
                 </div>
                 <div>
                     <a href="edificacoesSub.php"><img src="img/imgEdificacoes.jpg" class="img-fluid"></a>
@@ -46,7 +49,7 @@
 
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">Estetica</h1>
+                    <h2 class="text-center">Estetica</h2>
                 </div>
                 <div>
                     <a href="esteticaSub.php"><img src="img/imgEstetica.jpg" class="img-fluid"></a>
@@ -57,12 +60,12 @@
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">Eletrotécnica </h1>
+                    <h2 class="text-center">Eletrotécnica </h2>
                 </div>
                 <div>
                     <a href="eletrotecnicaSub.php"><img src="img/imgEletrotecnica.jpg" class="img-fluid"></a>
                 </div>
-            </div>
+            </div>  
 
             <div class="col-6">
                 <div>
@@ -81,13 +84,12 @@
     </div>
 
 
+    <footer>
+        <br>
+        <?php include("footer.php"); ?>
+    </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
 </body>
-
-<footer>
-    <br>
-    <?php include("footer.php"); ?>
-</footer>
 
 </html>
