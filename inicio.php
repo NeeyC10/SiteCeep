@@ -16,34 +16,35 @@
 
 <body>
   <div class="container">
-    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="row">
+    <div id="carouselExampleFade" class="col-md-9 carousel slide carousel-fade rounded-circle" data-bs-ride="carousel">
       <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="img/imgCeepCarousel1.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item  active">
+          <img src="img/imgCeepCarousel1.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel2.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel2.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel3.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel3.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel4.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel4.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel5.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel5.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel6.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel6.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel7.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel7.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel8.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel8.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
-        <div class="carousel-item">
-          <img src="img/imgCeepCarousel9.jpg" class="d-block w-100 " alt="...">
+        <div class="carousel-item ">
+          <img src="img/imgCeepCarousel9.jpg" class="d-block w-100 imgBorda" alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -55,11 +56,20 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-
+  
+  <div class="col-md-3">
+    <div class="row text-center">
+       <a href="noticias.php">
+          <img src="https://antigo.pi.gov.br/wp-content/uploads/2023/02/colacao.jpg" class="img-fluid " height="50px">
+          <div class="text-center"><p>Foto dos alunos formados no 3...</p></div>
+    </div>
+       </a>
+  </div>
+</div>
 
     <div class="row mt-3">
       <div class="text-center">
-        <h1>Sobre o Colégio</h1>
+        <h1 class="arredondado titulosBorda">Sobre o Colégio</h1>
       </div>
       <div class="text-center">
         <p>Em 2008, dez municípios do Paraná foram selecionados para receber unidades do Centro Estadual de Educação Profissional (CEEP). Laranjeiras do Sul foi um dos municípios contemplados, devido à sua localização central, atendendo à demanda regional. O CEEP na região Cantuquiriguaçu foi planejado para atender áreas específicas como o maior assentamento da América Latina e a maior Terra Indígena do Paraná.

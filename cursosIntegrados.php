@@ -49,7 +49,7 @@
 
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">Agronegócio</h1>
+                    <h2 class="text-center">Agronegócio</h2>
                 </div>
                 <div>
                     <a href="agronegocioInt.php"><img src="img/imgAgronegocios.jpg" class="img-fluid"></a>

@@ -29,3 +29,11 @@ body{
    background-color: rgb(145, 145, 145);
 }
 
+.imgBorda{
+   border-radius: 20px !important;
+}
+
+.titulosBorda{
+   border-radius: 15px !important;
+}
+

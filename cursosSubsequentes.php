@@ -69,7 +69,7 @@
 
             <div class="col-6">
                 <div>
-                    <h1 class="text-center">Farmacia</h1>
+                    <h2 class="text-center">Farmacia</h2>
                 </div>
                 <div>
                     <a href="farmaciaSub.php"><img src="img/imgFarmacia.jpg" class="img-fluid"></a>
