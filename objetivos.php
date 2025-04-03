@@ -15,12 +15,14 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="text-center"><h1>Objetivos</h1></div>
+            <div class="text-center"><h1 class="titulosBorda">Objetivos</h1></div>
         </div>
         <div>
-            <p>
-                
-            </p>
+            <iframe src="pdf/PROJETO POLÍTICO PEDAGÓGICO CEEP.pdf" width="100%" height="1200" style="border: none;"></iframe>
+        </div>
+
+        <div>
+        <iframe src="pdf/REGIMENTO ESCOLAR CEEP.pdf" width="100%" height="1200" style="border: none;"></iframe>
         </div>
     </div>
 

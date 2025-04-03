@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="text-center">
-                <h1>Agricultura</h1>
+                <h1 class="titulosBorda">Agricultura</h1>
             </div>
         </div>
         <div class="row mt-2">
@@ -25,16 +25,16 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="img/imgAgricultura.jpg" class="d-block w-100 " alt="...">
+                            <img src="img/imgAgricultura.jpg" class="d-block w-100 imgBorda" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/imgAgriculturaCarousel1.JPG" class="d-block w-100 " alt="...">
+                            <img src="img/imgAgriculturaCarousel1.JPG" class="d-block w-100 imgBorda" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/imgAgriculturaCarousel2.JPG" class="d-block w-100 " alt="...">
+                            <img src="img/imgAgriculturaCarousel2.JPG" class="d-block w-100 imgBorda" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/imgAgriculturaCarousel3.JPG" class="d-block w-100 " alt="...">
+                            <img src="img/imgAgriculturaCarousel3.JPG" class="d-block w-100 imgBorda" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

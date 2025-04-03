@@ -16,7 +16,7 @@
     <div class="container">
         <div class="row">
             <div class="text-center">
-                <h1>Eletrotécnica</h1>
+                <h1 class="titulosBorda">Eletrotécnica</h1>
             </div>
         </div>
         <div class="row mt-2">
@@ -25,13 +25,13 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="img/imgEletrotecnica.jpg" class="d-block w-100 " alt="...">
+                            <img src="img/imgEletrotecnica.jpg" class="d-block w-100 imgBorda" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/imgEletrotecnicaCarousel1.jpg" class="d-block w-100 " alt="...">
+                            <img src="img/imgEletrotecnicaCarousel1.jpg" class="d-block w-100 imgBorda" alt="...">
                         </div>
                         <div class="carousel-item">
-                            <img src="img/imgEletrotecnicaCarousel2.jpg" class="d-block w-100 " alt="...">
+                            <img src="img/imgEletrotecnicaCarousel2.jpg" class="d-block w-100 imgBorda" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

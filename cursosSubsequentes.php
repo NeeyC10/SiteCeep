@@ -15,44 +15,24 @@
 
     <div class="container">
     <div class="row">
-            <div class="text-center mb-3"><h1>Cursos Subsequentes</h1></div>
+            <div class="text-center mb-3 "><h1 class="titulosBorda">Cursos Subsequentes</h1></div>
         </div>
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">DEV</h2>
+                    <h2 class="text-center titulosBorda">DEV</h2>
                 </div>
                 <div>
-                    <a href="desenvolvimentoSub.php"><img src="img/imgDev.jpg" class="img-fluid"></a>
-                </div>
-            </div>
-
-            <div class="col-6">
-                <div>
-                    <h2 class="text-center">Enfermagem</h2>
-                </div>
-                <div>
-                    <a href="enfermagemSub.php"><img src="img/imgEnfermagem.jpeg" class="img-fluid"></a>
-                </div>
-            </div>
-        </div><br>
-
-        <div class="row">
-            <div class="col-6">
-                <div>
-                    <h2 class="text-center">Edificações</h2>
-                </div>
-                <div>
-                    <a href="edificacoesSub.php"><img src="img/imgEdificacoes.jpg" class="img-fluid"></a>
+                    <a href="desenvolvimentoSub.php"><img src="img/imgDev.jpg" class="img-fluid imgBorda"></a>
                 </div>
             </div>
 
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">Estetica</h2>
+                    <h2 class="text-center titulosBorda">Enfermagem</h2>
                 </div>
                 <div>
-                    <a href="esteticaSub.php"><img src="img/imgEstetica.jpg" class="img-fluid"></a>
+                    <a href="enfermagemSub.php"><img src="img/imgEnfermagem.jpeg" class="img-fluid imgBorda"></a>
                 </div>
             </div>
         </div><br>
@@ -60,19 +40,39 @@
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">Eletrotécnica </h2>
+                    <h2 class="text-center titulosBorda">Edificações</h2>
                 </div>
                 <div>
-                    <a href="eletrotecnicaSub.php"><img src="img/imgEletrotecnica.jpg" class="img-fluid"></a>
+                    <a href="edificacoesSub.php"><img src="img/imgEdificacoes.jpg" class="img-fluid imgBorda"></a>
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div>
+                    <h2 class="text-center titulosBorda">Estetica</h2>
+                </div>
+                <div>
+                    <a href="esteticaSub.php"><img src="img/imgEstetica.jpg" class="img-fluid imgBorda"></a>
+                </div>
+            </div>
+        </div><br>
+
+        <div class="row">
+            <div class="col-6">
+                <div>
+                    <h2 class="text-center titulosBorda">Eletrotécnica </h2>
+                </div>
+                <div>
+                    <a href="eletrotecnicaSub.php"><img src="img/imgEletrotecnica.jpg" class="img-fluid imgBorda"></a>
                 </div>
             </div>  
 
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">Farmacia</h2>
+                    <h2 class="text-center titulosBorda">Farmacia</h2>
                 </div>
                 <div>
-                    <a href="farmaciaSub.php"><img src="img/imgFarmacia.jpg" class="img-fluid"></a>
+                    <a href="farmaciaSub.php"><img src="img/imgFarmacia.jpg" class="img-fluid imgBorda"></a>
                 </div>
             </div>
         </div>

@@ -15,44 +15,24 @@
 
     <div class="container">
         <div class="row">
-            <div class="text-center mb-3"><h1>Cursos Integrados</h1></div>
+            <div class="text-center mb-3"><h1 class="text-center titulosBorda">Cursos Integrados</h1></div>
         </div>
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">DEV</h2>
+                    <h2 class="text-center titulosBorda">DEV</h2>
                 </div>
                 <div>
-                    <a href="desenvolvimentoInt.php"><img src="img/imgDev.jpg" class="img-fluid"></a>
-                </div>
-            </div>
-
-            <div class="col-6">
-                <div>
-                    <h2 class="text-center">Enfermagem</h2>
-                </div>
-                <div>
-                    <a href="enfermagemInt.php"><img src="img/imgEnfermagem.jpeg" class="img-fluid"></a>
-                </div>
-            </div>
-        </div><br>
-
-        <div class="row">
-            <div class="col-6">
-                <div>
-                    <h2 class="text-center">Agricultura</h2>
-                </div>
-                <div>
-                    <a href="agriculturaInt.php"><img src="img/imgAgricultura.jpg" class="img-fluid"></a>
+                    <a href="desenvolvimentoInt.php"><img src="img/imgDev.jpg" class="img-fluid imgBorda"></a>
                 </div>
             </div>
 
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">Agronegócio</h2>
+                    <h2 class="text-center titulosBorda">Enfermagem</h2>
                 </div>
                 <div>
-                    <a href="agronegocioInt.php"><img src="img/imgAgronegocios.jpg" class="img-fluid"></a>
+                    <a href="enfermagemInt.php"><img src="img/imgEnfermagem.jpeg" class="img-fluid imgBorda"></a>
                 </div>
             </div>
         </div><br>
@@ -60,10 +40,30 @@
         <div class="row">
             <div class="col-6">
                 <div>
-                    <h2 class="text-center">Administração </h2>
+                    <h2 class="text-center titulosBorda">Agricultura</h2>
                 </div>
                 <div>
-                    <a href="administracaoInt.php"><img src="img/imgAdm.jpg" class="img-fluid"></a>
+                    <a href="agriculturaInt.php"><img src="img/imgAgricultura.jpg" class="img-fluid imgBorda"></a>
+                </div>
+            </div>
+
+            <div class="col-6">
+                <div>
+                    <h2 class="text-center titulosBorda">Agronegócio</h2>
+                </div>
+                <div>
+                    <a href="agronegocioInt.php"><img src="img/imgAgronegocios.jpg" class="img-fluid imgBorda"></a>
+                </div>
+            </div>
+        </div><br>
+
+        <div class="row">
+            <div class="col-6">
+                <div>
+                    <h2 class="text-center titulosBorda">Administração </h2>
+                </div>
+                <div>
+                    <a href="administracaoInt.php"><img src="img/imgAdm.jpg" class="img-fluid imgBorda"></a>
                 </div>
             </div>
 
