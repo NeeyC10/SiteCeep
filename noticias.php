@@ -23,48 +23,46 @@
             <div class="col-md-12 mt-3">
 
                 <div class="row">
-                    <div class="col-md-4">
-                        <img src="https://antigo.pi.gov.br/wp-content/uploads/2023/02/colacao.jpg" class="img-fluid imgBorda" height="50px">
+                    <div class="col-md-2">
+                        <img src="https://antigo.pi.gov.br/wp-content/uploads/2023/02/colacao.jpg" class="img-fluid imgBorda">
                     </div>
-                    <div class="col-md-8 fundoResumoCursos">
+                    <div class="col-md-3">
                     <div class="text-center"><h2 class="titulosBorda">Formados</h2></div>
                     <div class="text-center"><p>Foto dos alunos formados no 3...</p></div>
                     </div>
-                </div> <hr>
 
-                <div class="row mt-2">
-                    <div class="col-md-4">
+                    <div class="col-md-2">
                         <img src="https://campoabertofm.com.br/upload/noticias/1726880676phpey1jfv.jpeg" class="img-fluid imgBorda" height="50px">
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-3">
                     <div class="text-center"><h2 class="titulosBorda">Incrições Abertas</h2></div>
                     <div class="text-center"><p>Incrições Abertas no Colégio Ceep...</p></div>
                     </div>
-                </div> <hr>
+            </div>
+            <br>
 
-                <div class="row mt-2">
-                    <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-2">
                         <img src="https://www.acheisudoeste.com.br/hd-imagens/noticias/6907-achei-sudoeste-manifestacao-alunos-ceep-em-brumado.webp" class="img-fluid imgBorda" height="50px">
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-3">
                     <div class="text-center"><h2 class="titulosBorda">Manisfetação</h2></div>
                     <div class="text-center"><p>Manifestação de alunos da Escola Ceep após...</p></div>
                     </div>
-                </div> <hr>
+              
 
-                <div class="row mt-2">
-                    <div class="col-md-4">
+                    <div class="col-md-2">
                         <img src="https://cdn.arede.info/img/cover/530000/CEEP2_00538972_0_202409171204.jpg?xid=1844228" class="img-fluid imgBorda" height="50px">
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-3">
                     <div class="text-center"><h2 class="titulosBorda">Ceep Demolido</h2></div>
                     <div class="text-center"><p>Demolição de Prédio da escola Ceep...</p></div>
                     </div>
-                 </div> <hr>
+                </div>
+                <br>
              </div>
          </div>
      </div>
-
 <!-- Noticias para celular -->
 <div class="d-block d-sm-none">
         <div class="row">

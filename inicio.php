@@ -22,7 +22,7 @@
       </div>
     </div>
     <div class="row">
-      <div id="carouselExampleFade" class="col-md-9 carousel slide carousel-fade rounded-circle" data-bs-ride="carousel">
+      <div id="carouselExampleFade" class="col-9 carousel slide carousel-fade rounded-circle" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item  active">
             <img src="img/imgCeepCarousel1.jpg" class="d-block w-100 imgBorda" alt="...">
@@ -62,18 +62,10 @@
         </button>
       </div>
 
-      <div class="col-md-3">
-        <div class="row text-center">
-          <a href="noticias.php">
-            <img src="https://antigo.pi.gov.br/wp-content/uploads/2023/02/colacao.jpg" class="img-fluid imgBorda" height="50px">
-            <div class="text-center">
-              <p>Foto dos alunos formados no 3...</p>
-            </div>
-        </div>
-        </a>
+      <div class="col-3">
         <div class="row">
           <div>
-            <img src="img/imgHorarios.png" class="img-fluid imgBorda" alt="">
+            <img src="img/imgHorario.png" class="img-fluid imgBorda" alt="">
           </div>
         </div>
       </div>
@@ -81,15 +73,19 @@
 
     <div class="row">
       <div class="col-3">
+        <p>histórico</p>
         <a href="historico.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
       <div class="col-3">
+        <p>objetivos</p>
         <a href="objetivos.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
       <div class="col-3">
+        <p>leitoria</p>
         <a href="leitoria.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
       <div class="col-3">
+        <p>galeria de fotos</p>
         <a href="galeriaFotos.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
     </div><br>
