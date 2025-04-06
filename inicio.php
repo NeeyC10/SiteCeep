@@ -73,15 +73,15 @@
 
     <div class="row">
       <div class="col-3">
-        <p>histórico</p>
+        <p>Histórico</p>
         <a href="historico.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
       <div class="col-3">
-        <p>objetivos</p>
+        <p>Objetivos</p>
         <a href="objetivos.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
       <div class="col-3">
-        <p>leitoria</p>
+        <p>Leitoria</p>
         <a href="leitoria.php"><img src="https://cdn.awsli.com.br/600x700/2311/2311163/produto/150378694/creativo-verde-esmeralda-3f447699.jpg" class="img-fluid imgBorda" alt=""></a>
       </div>
       <div class="col-3">
