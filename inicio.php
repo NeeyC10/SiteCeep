@@ -5,50 +5,54 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Cursos</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="geral.css">
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="stylesheet" href="css/estiloGeral.css">
 </head>
 
-<header>
-  <?php include("topo.php"); ?>
-</header>
-
 <body>
+
+  <header>
+    <?php include("topo.php"); ?>
+  </header>
+
   <div class="container">
     <div class="row mt-3">
       <div class="text-center">
         <h1 class="arredondado titulosBorda">CEEP</h1>
       </div>
     </div>
+
     <div class="row">
       <div id="carouselExampleFade" class="col-9 carousel slide carousel-fade rounded-circle" data-bs-ride="carousel">
         <div class="carousel-inner">
-          <div class="carousel-item  active">
+          <div class="carousel-item active">
             <img src="img/imgCeepCarousel1.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel2.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel3.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel4.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel5.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel6.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel7.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel8.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
-          <div class="carousel-item ">
+          <div class="carousel-item">
             <img src="img/imgCeepCarousel9.jpg" class="d-block w-100 imgBorda" alt="...">
           </div>
         </div>
@@ -89,13 +93,25 @@
         <a href="galeriaFotos.php"><img src="img/galer4.png" class="img-fluid imgBorda" alt=""></a>
       </div>
     </div><br>
-
   </div>
 
+  <!-- Botão Voltar ao Topo -->
+  <button id="btnTopo" onclick="voltarAoTopo()" title="Voltar ao topo">Voltar ao Topo
+  <i class="bi bi-arrow-up-circle"></i>
+</button>
+
+
+
+  <footer>
+    <?php include("footer.php"); ?>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Script personalizado -->
+  <script src="js/botoes.js"></script>
 
 </body>
-<footer>
-  <?php include("footer.php"); ?>
-</footer>
 
 </html>
